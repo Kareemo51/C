@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1757323716 source:c:\users\karee\onedrive\helloc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1757325270 source:c:\users\karee\onedrive\helloc\array.c
+	<stdio.h>
+	<stdlib.h>
+
